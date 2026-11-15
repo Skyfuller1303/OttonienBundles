@@ -1,0 +1,19 @@
+name: OttonienBundles
+version: ${version}
+main: de.ottonien.bundles.OttonienBundlesPlugin
+api-version: '1.21.11'
+description: Lets vanilla bundles hold Ottonien items with configurable bundle capacities.
+commands:
+  ottonienbundle:
+    description: Administration of OttonienBundles
+    usage: /ottonienbundle <reload|inspect|debug [on|off]>
+permissions:
+  ottonienbundles.reload:
+    description: Reload bundles.json
+    default: op
+  ottonienbundles.inspect:
+    description: Inspect the bundle in the main hand
+    default: op
+  ottonienbundles.debug:
+    description: Toggle the diagnostic log line for bundle clicks
+    default: op

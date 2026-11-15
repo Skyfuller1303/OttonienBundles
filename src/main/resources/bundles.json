@@ -1,0 +1,15 @@
+{
+  "bundleSize": 64,
+  "items": {
+    "ottonien:erbsen": { "size": 4 },
+    "ottonien:kohl": { "size": 4 },
+    "ottonien:ruebe": { "size": 4 },
+    "ottonien:erbsensuppe": { "size": 16 },
+    "ottonien:gemuesesuppe": { "size": 16 },
+    "ottonien:zwiebelsuppe": { "size": 16 },
+    "ottonien:bratgemuese": { "size": 16 },
+    "ottonien:eintopf": { "size": 32 },
+    "ottonien:apfelkuchen": { "size": 64 },
+    "ottonien:salz": { "size": 8 }
+  }
+}
